@@ -1,0 +1,10 @@
+{
+  "name": "task-manager-ui",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jin Choi <jinchoi@ucdavis.edu>",
+  "license": "MIT",
+  "dependencies": {
+    "create-react-app": "^3.4.1"
+  }
+}
