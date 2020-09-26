@@ -1,4 +1,4 @@
-import media from './media';
+import * as media from './media';
 
 export default {
   ...media
