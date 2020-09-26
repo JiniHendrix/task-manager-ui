@@ -12,6 +12,9 @@ TDD
 Jest
 React Testing Library
 
+## Styling
+Should be done with Progressive Enhancement and use of EmotionJS library
+
 ## Available Scripts
 
 In the project directory, you can run:
