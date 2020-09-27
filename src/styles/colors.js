@@ -5,4 +5,3 @@ export const PRIMARY_COLORS = {
   ROSE_MADDER: '#E71D36',
   ORANGE_PEEL: '#FF9F1C'
 };
-
