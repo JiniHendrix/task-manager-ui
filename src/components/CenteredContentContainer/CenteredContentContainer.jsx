@@ -22,6 +22,7 @@ return (
       max-width: 500px;
       background: ${PRIMARY_COLORS.TIFFANY_BLUE};
       border-radius: 5px;
+      padding: 20px 30px;
     `
     }>
       {children}
