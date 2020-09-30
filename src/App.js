@@ -3,7 +3,7 @@ import { Global, css } from '@emotion/core';
 import { BrowserRouter, Route, Switch } from 'react-router-dom';
 import {
   SignUp
-} from './pages';
+} from './features';
 
 function App() {
   return (
