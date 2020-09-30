@@ -2,10 +2,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Tech Stack
 React
-Redux
+Redux with Redux Toolkit
+TypeScript
 React Router
 EmotionJS
-Redux Saga
+Redux Thunk
 
 ## Testing
 TDD
